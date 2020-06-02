@@ -1,7 +1,6 @@
 {
   "name": "W11",
   "version": "1.0.0",
-  "description": "",
   "main": "app.js",
   "directories": {
     "test": "test"
@@ -14,5 +13,15 @@
   "license": "ISC",
   "dependencies": {
     "jest": "^26.0.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ichoi21/jest_testing.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ichoi21/jest_testing/issues"
+  },
+  "homepage": "https://github.com/ichoi21/jest_testing#readme",
+  "description": ""
 }
